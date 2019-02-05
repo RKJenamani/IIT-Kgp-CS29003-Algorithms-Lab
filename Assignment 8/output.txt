@@ -1,0 +1,5 @@
+closest pair:(21,77) and (21, 78)
+distance=1
+closest pair:(52,56) and (51, 56)
+distance=1
+

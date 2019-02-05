@@ -1,0 +1,4 @@
+Jobs scheduled at each timestep are:
+ 1 2 4 4 4 4 3 3 3 3 3 5 5 5 5 5 2 2 2 2 2 2 1 1 1 1 1 1 1 1 1 6 6 6 6 6 6 6 6 6 6
+Average Turnaround Time is 6.50
+
